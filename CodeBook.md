@@ -48,12 +48,13 @@ The following files are available for the train and test data. Their description
 
 ## Tidy Data Column Description
 
-column   | description
----------|------------------------------
-Activity | Descriptive Label of Activity
-Subject | Subject Number
+| Column       | Description                                              | type    |
+| ------------ | -------------------------------------------------------- | ------- |
+| Activity | Descriptive Label of Activity | integer
+| Subject  | Subject Number | character|
+| Mean Samples  | Mean of variables | numeric |
 
-Others are measurement variables.
+All units are maintained from the original data set
 
 ## Data Source 
 
