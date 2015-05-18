@@ -9,4 +9,4 @@ tidy_data.txt will be generated containing the analysis
 
 This file requires `reshape2` and `data.table` packages.
 
-See CodeBook.md for detail on the extraction process and column descriptions for tidy_data.txt 
+See CodeBook.md for detail on the extraction process as well as the column descriptions for tidy_data.txt 
