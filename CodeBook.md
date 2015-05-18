@@ -40,9 +40,9 @@ The following files are available for the train and test data. Their description
 
 
 ## Processing steps
-1. Training and the test sets is merged to create one data set.
+1. Training and the test sets are merged to create one data set.
 2. Only the measurements on the mean and standard deviation are extracted for each measurement.
-3. Descriptive activity names is used to name the activities in the data set
+3. Descriptive activity names are used to name the activities in the data set
 4. Appropriately activity names are labeled to  the data set s.
 5. An independent tidy data set with the average of each variable for each activity and each subject is created. `tidy_data.txt`
 
