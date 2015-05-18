@@ -50,8 +50,8 @@ The following files are available for the train and test data. Their description
 
 | Column       | Description                                              | type    |
 | ------------ | -------------------------------------------------------- | ------- |
-| Activity | Descriptive Label of Activity | integer
-| Subject  | Subject Number | character|
+| Activity | Descriptive Label of Activity | character |
+| Subject  | Subject Number | integer |
 | Mean Samples  | Mean of variables | numeric |
 
 All units are maintained from the original data set
