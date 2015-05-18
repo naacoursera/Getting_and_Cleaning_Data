@@ -5,8 +5,8 @@
 2. Extract into the toplevel of the repository
 3. Run `Rscript run_analysis.R`
 
-tidy_data.txt will be generated containing the analysis 
+`tidy_data.txt` will be generated containing the analysis 
 
 This file requires `reshape2` and `data.table` packages.
 
-See CodeBook.md for detail on the extraction process as well as the column descriptions for tidy_data.txt 
+See CodeBook.md for detail on the extraction process as well as the column descriptions for `tidy_data.txt` 
